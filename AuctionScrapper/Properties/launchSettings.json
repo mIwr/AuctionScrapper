@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AuctionScrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "firstEmpty"
+    }
+  }
+}
